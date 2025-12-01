@@ -1,9 +1,7 @@
 # 🏠 Homelab Kubernetes Cluster
 
-Brief description of what this repository is about.
-Example: A personal Kubernetes cluster running in my homelab for self-hosting, learning, automation and production of my websites.
+ A personal Kubernetes cluster running in my homelab for self-hosting, learning, automation and production of my websites.
 
----
 
 
 
